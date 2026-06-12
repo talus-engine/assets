@@ -1,0 +1,4 @@
+# Plain git ON PURPOSE: raw.githubusercontent.com must serve real bytes,
+# not LFS pointer text — and LFS-backed raw serving bills LFS bandwidth
+# per download. Never add filter=lfs rules here.
+* -text
