@@ -1,0 +1,558 @@
+[
+  {
+    "name": "Industrial_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1",
+      "Industrial_Tileset_2"
+    ]
+  },
+  {
+    "name": "Industrial_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3"
+    ]
+  },
+  {
+    "name": "Industrial_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1_Background",
+      "Industrial_Tileset_2_Background"
+    ]
+  },
+  {
+    "name": "Industrial_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3_Background"
+    ]
+  },
+  {
+    "name": "Industrial_B_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1B",
+      "Industrial_Tileset_2B"
+    ]
+  },
+  {
+    "name": "Industrial_B_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3B"
+    ]
+  },
+  {
+    "name": "Industrial_B_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1B_Background",
+      "Industrial_Tileset_2B_Background"
+    ]
+  },
+  {
+    "name": "Industrial_B_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3B_Background"
+    ]
+  },
+  {
+    "name": "Industrial_C_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1C",
+      "Industrial_Tileset_2C"
+    ]
+  },
+  {
+    "name": "Industrial_C_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3C"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1C_Background",
+      "Industrial_Tileset_2C_Background"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3C_Background"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_Violet_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_Violet_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1C_Background_Violet",
+      "Industrial_Tileset_2C_Background_Violet"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_Violet_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_Violet_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3C_Background_Violet"
+    ]
+  },
+  {
+    "name": "Industrial_D_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1D",
+      "Industrial_Tileset_2D"
+    ]
+  },
+  {
+    "name": "Industrial_D_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3D"
+    ]
+  },
+  {
+    "name": "Industrial_D_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1D_Background",
+      "Industrial_Tileset_2D_Background"
+    ]
+  },
+  {
+    "name": "Industrial_D_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3D_Background"
+    ]
+  },
+  {
+    "name": "Industrial_E_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1E",
+      "Industrial_Tileset_2E"
+    ]
+  },
+  {
+    "name": "Industrial_E_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3E"
+    ]
+  },
+  {
+    "name": "Industrial_E_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1E_Background",
+      "Industrial_Tileset_2E_Background"
+    ]
+  },
+  {
+    "name": "Industrial_E_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3E_Background"
+    ]
+  },
+  {
+    "name": "Industrial_F_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_F_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1F",
+      "Industrial_Tileset_2F"
+    ]
+  },
+  {
+    "name": "Industrial_F_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_F_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3F"
+    ]
+  },
+  {
+    "name": "Industrial_F_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_F_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1F_Background",
+      "Industrial_Tileset_2F_Background"
+    ]
+  },
+  {
+    "name": "Industrial_F_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_F_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3F_Background"
+    ]
+  },
+  {
+    "name": "Industrial_H_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1H",
+      "Industrial_Tileset_2H"
+    ]
+  },
+  {
+    "name": "Industrial_H_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3H"
+    ]
+  },
+  {
+    "name": "Industrial_H_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1H_Background",
+      "Industrial_Tileset_2H_Background"
+    ]
+  },
+  {
+    "name": "Industrial_H_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3H_Background"
+    ]
+  },
+  {
+    "name": "Industrial_I_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1I",
+      "Industrial_Tileset_2I"
+    ]
+  },
+  {
+    "name": "Industrial_I_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3I"
+    ]
+  },
+  {
+    "name": "Industrial_I_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_Background_47Tiles.png",
+    "sources": [
+      "Industrial_Tileset_1I_Background",
+      "Industrial_Tileset_2I_Background"
+    ]
+  },
+  {
+    "name": "Industrial_I_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_Background_Extra24.png",
+    "sources": [
+      "Industrial_Tileset_3I_Background"
+    ]
+  },
+  {
+    "name": "Industrial_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_Props12.png",
+    "sources": [
+      "Industrial_Props_1"
+    ]
+  },
+  {
+    "name": "Industrial_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1_Background"
+    ]
+  },
+  {
+    "name": "Industrial_B_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_Props12.png",
+    "sources": [
+      "Industrial_Props_1B"
+    ]
+  },
+  {
+    "name": "Industrial_B_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_B_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1B_Background"
+    ]
+  },
+  {
+    "name": "Industrial_C_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Props12.png",
+    "sources": [
+      "Industrial_Props_1C"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1C_Background"
+    ]
+  },
+  {
+    "name": "Industrial_C_Background_Violet_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_C_Background_Violet_Props12.png",
+    "sources": [
+      "Industrial_Props_1C_Background_Violet"
+    ]
+  },
+  {
+    "name": "Industrial_D_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_Props12.png",
+    "sources": [
+      "Industrial_Props_1D"
+    ]
+  },
+  {
+    "name": "Industrial_D_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_D_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1D_Background"
+    ]
+  },
+  {
+    "name": "Industrial_E_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_Props12.png",
+    "sources": [
+      "Industrial_Props_1E"
+    ]
+  },
+  {
+    "name": "Industrial_E_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_E_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1E_Background"
+    ]
+  },
+  {
+    "name": "Industrial_H_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_Props12.png",
+    "sources": [
+      "Industrial_Props_1H"
+    ]
+  },
+  {
+    "name": "Industrial_H_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_H_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1H_Background"
+    ]
+  },
+  {
+    "name": "Industrial_I_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_Props12.png",
+    "sources": [
+      "Industrial_Props_1I"
+    ]
+  },
+  {
+    "name": "Industrial_I_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-industrial/atomic-realm-autotiles/Industrial_I_Background_Props12.png",
+    "sources": [
+      "Industrial_Props_1I_Background"
+    ]
+  }
+]

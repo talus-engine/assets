@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Mine_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1",
+      "Mine_Tileset_2"
+    ]
+  },
+  {
+    "name": "Mine_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3"
+    ]
+  },
+  {
+    "name": "Mine_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_Background_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1_Background",
+      "Mine_Tileset_2_Background"
+    ]
+  },
+  {
+    "name": "Mine_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3_Background"
+    ]
+  },
+  {
+    "name": "Mine_A_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_A_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1A",
+      "Mine_Tileset_2A"
+    ]
+  },
+  {
+    "name": "Mine_A_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_A_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3A"
+    ]
+  },
+  {
+    "name": "Mine_A_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_A_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3A_Background"
+    ]
+  },
+  {
+    "name": "Mine_B_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1B",
+      "Mine_Tileset_2B"
+    ]
+  },
+  {
+    "name": "Mine_B_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3B"
+    ]
+  },
+  {
+    "name": "Mine_B_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Background_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1B_Background",
+      "Mine_Tileset_2B_Background"
+    ]
+  },
+  {
+    "name": "Mine_B_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3B Background"
+    ]
+  },
+  {
+    "name": "Mine_C_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_C_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1C",
+      "Mine_Tileset_2C"
+    ]
+  },
+  {
+    "name": "Mine_C_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_C_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3C"
+    ]
+  },
+  {
+    "name": "Mine_C_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_C_Background_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1C_Background",
+      "Mine_Tileset_2C_Background"
+    ]
+  },
+  {
+    "name": "Mine_C_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_C_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3C_Background "
+    ]
+  },
+  {
+    "name": "Mine_E_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_E_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1E",
+      "Mine_Tileset_2E"
+    ]
+  },
+  {
+    "name": "Mine_E_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_E_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3E"
+    ]
+  },
+  {
+    "name": "Mine_E_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_E_Background_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1E_Background",
+      "Mine_Tileset_2E_Background"
+    ]
+  },
+  {
+    "name": "Mine_E_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_E_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3E_Background"
+    ]
+  },
+  {
+    "name": "Mine_D_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_D_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1D",
+      "Mine_Tileset_2D"
+    ]
+  },
+  {
+    "name": "Mine_D_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_D_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3D"
+    ]
+  },
+  {
+    "name": "Mine_D_Background_47Tiles",
+    "type": "platformer-47",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_D_Background_47Tiles.png",
+    "sources": [
+      "Mine_Tileset_1D_Background",
+      "Mine_Tileset_2D_Background"
+    ]
+  },
+  {
+    "name": "Mine_D_Background_Extra24",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_D_Background_Extra24.png",
+    "sources": [
+      "Mine_Tileset_3D_Background"
+    ]
+  },
+  {
+    "name": "Mine_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_Props12.png",
+    "sources": [
+      "Mine_Props_1"
+    ]
+  },
+  {
+    "name": "Mine_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_Background_Props12.png",
+    "sources": [
+      "Mine_Props_1_Background"
+    ]
+  },
+  {
+    "name": "Mine_B_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Props12.png",
+    "sources": [
+      "Mine_Props_1B"
+    ]
+  },
+  {
+    "name": "Mine_B_Background_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Background_Props12.png",
+    "sources": [
+      "Mine_Props_1B_Background"
+    ]
+  },
+  {
+    "name": "Mine_B_color_2_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_color_2_Props12.png",
+    "sources": [
+      "Mine_Props_1B color 2"
+    ]
+  },
+  {
+    "name": "Mine_B_Background_color_2_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Background_color_2_Props12.png",
+    "sources": [
+      "Mine_Props_1B_Background color 2"
+    ]
+  },
+  {
+    "name": "Mine_B_color_3_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_color_3_Props12.png",
+    "sources": [
+      "Mine_Props_1B_ color 3"
+    ]
+  },
+  {
+    "name": "Mine_B_Background_color_3_Props12",
+    "type": "uniform-grid",
+    "tileWidth": 32,
+    "tileHeight": 32,
+    "layout": "template",
+    "output": "/private/tmp/atomic-realm-mine/atomic-realm-autotiles/Mine_B_Background_color_3_Props12.png",
+    "sources": [
+      "Mine_Props_1B_Background color 3"
+    ]
+  }
+]
