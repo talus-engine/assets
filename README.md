@@ -34,12 +34,27 @@ From the engine repo checkout:
 # If .pyxel archives were added, expand them in place first:
 npx tsx scripts/expandPyxelArchives.ts ~/gh/assets/assets/sprites
 
-# Regenerate the affected manifest(s):
+# Regenerate the affected manifest(s). Only the manifest(s) whose subtree
+# you touched need rebuilding — except sprites-core (see note below).
+
+# Dedicated per-pack manifests (each scopes one --subdir):
 npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-modern-exteriors --title="Modern Exteriors" --subdir=assets/sprites/modernexteriors-win --out=manifest.modern-exteriors.json
 npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-modern-interiors --title="Modern Interiors" --subdir=assets/sprites/moderninteriors-win --out=manifest.modern-interiors.json
 npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-modern-farm --title="Modern Farm" --subdir=assets/sprites/Modern_Farm_v1.2 --out=manifest.modern-farm.json
-npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-sprites-core --title="Core Sprites" --subdir=assets/sprites --exclude=assets/sprites/modernexteriors-win --exclude=assets/sprites/moderninteriors-win --exclude=assets/sprites/Modern_Farm_v1.2 --out=manifest.sprites-core.json
+npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-atomic-realm-tiles --title="Atomic Realm Tiles" --subdir=assets/sprites/atomic_realm_tiles --out=manifest.atomic-realm-tiles.json
+npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-character-template --title="Character Template" --subdir=assets/sprites/character-template --out=manifest.character-template.json
+
+# Audio:
 npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-audio --title="Audio" --subdir=assets/audio --out=manifest.audio.json
+
+# Catch-all over assets/sprites MINUS the three modern packs (which have their
+# own manifests). It does NOT exclude atomic_realm_tiles / character-template,
+# so those two subtrees are intentionally double-indexed — once in their
+# dedicated manifest above, once here. Regenerate sprites-core for ANY change
+# under assets/sprites (new packs like vfx_slash/, weapons/ are picked up here),
+# AND additionally rebuild the dedicated manifest if you touched a modern pack
+# or atomic_realm_tiles / character-template.
+npx tsx scripts/buildAssetManifest.ts ~/gh/assets --slug=talus-sprites-core --title="Core Sprites" --subdir=assets/sprites --exclude=assets/sprites/modernexteriors-win --exclude=assets/sprites/moderninteriors-win --exclude=assets/sprites/Modern_Farm_v1.2 --out=manifest.sprites-core.json
 
 # Regenerate the engine's committed asset-index JSONs and commit them there:
 npx tsx scripts/buildAssetIndex.ts ~/gh/assets
